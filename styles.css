@@ -1,3 +1,30 @@
-h1 {
-    color: #5f7eaa
+body {
+    background-color: #EEF7FC;
 }
+
+h1  {
+    color: #5f7eaa;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Cabin', sans-serif;
+}
+
+p   {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Cabin', sans-serif;
+}
+.navigation a{
+    float: left;
+    color: #060E0D;
+    text-align: center;
+    padding: 14px 16px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 17px;
+  }
